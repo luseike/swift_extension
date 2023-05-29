@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DAFE7083-70A3-4914-8C0F-8040F3613F45"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22B158C1-289D-4D05-9397-9AADE5C9F6FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift_extension/Components/MVVM_Swift/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "apiToGetEmployeeData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22B158C1-289D-4D05-9397-9AADE5C9F6FB - b3096545715cbe6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_extension.APIService.requestEmployeeData(completion: (swift_extension.Employees) -&gt; ()) -&gt; ()"
+                  moduleName = "swift_extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanlujiang/Desktop/demo_space/swift_extension/swift_extension/Components/MVVM_Swift/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "22B158C1-289D-4D05-9397-9AADE5C9F6FB - 52d403e41a46e323"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in swift_extension.APIService.requestEmployeeData(completion: (swift_extension.Employees) -&gt; ()) -&gt; ()"
+                  moduleName = "swift_extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanlujiang/Desktop/demo_space/swift_extension/swift_extension/Components/MVVM_Swift/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "22B158C1-289D-4D05-9397-9AADE5C9F6FB - 3bacf068f8ed45f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in swift_extension.APIService.apiToGetEmployeeData(completion: (swift_extension.Employees) -&gt; ()) -&gt; ()"
+                  moduleName = "swift_extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuanlujiang/Desktop/demo_space/swift_extension/swift_extension/Components/MVVM_Swift/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
